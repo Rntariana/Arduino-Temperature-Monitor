@@ -43,6 +43,8 @@ Arduino temperature monitoring system with LCD display, LEDs, buzzer, TMP36 sens
 
 ## Tinkercad
 https://www.tinkercad.com/things/ci02F827HsW-spectacular-luulia-robo
+<img width="1411" height="602" alt="image" src="https://github.com/user-attachments/assets/0564bc1a-5667-4d25-b5b9-d5d1f203fd77" />
+
 
 ## Author
 
